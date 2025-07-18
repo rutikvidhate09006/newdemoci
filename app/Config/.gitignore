@@ -1,0 +1,9 @@
+/writable/cache/
+/writable/logs/
+/writable/session/
+/vendor/
+/.env
+.idea/
+.vscode/
+*.log
+*.env
