@@ -31,6 +31,8 @@ class CityController extends BaseController
     
     }
 
+
+// Slug For country,State And Also product
 public function countryOrState($slug)
 {
     $countryModel = new CountryModel();
